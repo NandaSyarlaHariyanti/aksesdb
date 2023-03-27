@@ -29,6 +29,12 @@ if (isset($_POST["search"])) {
                 <li class="nav-item">
                 <a class="nav-link" href="product.php">product</a>
                 </li>
+                <li class="nav-item">
+                <a class="nav-link" href="crudcustomer.php">create customer</a>
+                </li>
+                <li class="nav-item">
+                <a class="nav-link" href="crudproduct.php">create product</a>
+                </li>
             </ul>
             </div>
         </div>
